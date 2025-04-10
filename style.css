@@ -982,9 +982,9 @@ footer{
     }
 
     .section-defense:hover article{
-    filter: none;
-    opacity: 1;
-}
+       filter: none;
+       opacity: 1;
+    }
 
 }
 
