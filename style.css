@@ -981,6 +981,11 @@ footer{
         width: 100px;
     }
 
+    .section-defense:hover article{
+    filter: none;
+    opacity: 1;
+}
+
 }
 
 @media (max-width: 359px) {
